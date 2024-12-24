@@ -19,6 +19,7 @@ Estrutura do Projeto:
 
 Como Rodar o Projeto:
 1.	Pode Testar o código indo para OnlineGDB : https://onlinegdb.com/SQd4vm2nJ
+
 Compilar e Executar: Ao acessar o link, você verá o código-fonte no editor do OnlineGDB. Clique no botão Run (Executar) no topo da página. O sistema será compilado e executado diretamente na plataforma.
 
 2.	Compilar e Executar: Compile com javac Main.java Produtos.java e execute com java Main para interagir com o sistema.
